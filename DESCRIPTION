@@ -2,7 +2,7 @@ Package: idarps
 Type: Package
 Title: Datasets and Functions for the Class "Modelling and Data
         Analysis for Pharmaceutical Sciences"
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: c(
     person("Lionel", "Voirol", email = "lionelvoirol@hotmail.com", role = c("aut", "cre")),
     person("Stéphane", "Guerrier", role = "aut"),
@@ -17,7 +17,7 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-03-13 14:30:55 UTC; lionel
+Packaged: 2023-04-21 14:01:33 UTC; lionel
 Author: Lionel Voirol [aut, cre],
   Stéphane Guerrier [aut],
   Yuming Zhang [aut],
@@ -25,4 +25,4 @@ Author: Lionel Voirol [aut, cre],
 Maintainer: Lionel Voirol <lionelvoirol@hotmail.com>
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2023-03-13 15:30:02 UTC
+Date/Publication: 2023-04-21 17:12:32 UTC
