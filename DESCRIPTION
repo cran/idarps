@@ -2,7 +2,7 @@ Package: idarps
 Type: Package
 Title: Datasets and Functions for the Class "Modelling and Data
         Analysis for Pharmaceutical Sciences"
-Version: 0.0.5
+Version: 0.0.6
 Authors@R: c(
     person("Lionel", "Voirol", email = "lionelvoirol@hotmail.com", role = c("aut", "cre")),
     person("Stéphane", "Guerrier", role = "aut"),
@@ -15,14 +15,14 @@ Description: Provides datasets and functions for the class "Modelling and Data A
 License: AGPL-3
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
+Depends: R (>= 3.5)
 NeedsCompilation: no
-Packaged: 2025-05-02 13:00:09 UTC; lionel
+Packaged: 2026-05-11 14:45:08 UTC; LucaI
 Author: Lionel Voirol [aut, cre],
   Stéphane Guerrier [aut],
   Yuming Zhang [aut],
   Luca Insolia [aut]
 Maintainer: Lionel Voirol <lionelvoirol@hotmail.com>
-Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2025-05-02 13:20:02 UTC
+Date/Publication: 2026-05-11 17:10:03 UTC

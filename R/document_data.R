@@ -279,7 +279,7 @@
 #' }
 #'
 #' @references Patricio, Miguel, et al. "Using Resistin, glucose, age and BMI to predict the presence of breast cancer", BMC Cancer, (2018).
-#' @source \url{https://bmccancer.biomedcentral.com/articles/10.1186/s12885-017-3877-1}
+#' @source \url{https://link.springer.com/article/10.1186/s12885-017-3877-1}
 "BreastCancer"
 #'
 #'
@@ -363,4 +363,23 @@
 #' }
 #'
 "centenarian"
+#'
+
+
+#' Particulate Matter Exposure and Lung Function
+#' @description This dataset contains demographic, environmental and respiratory data for 200 male adults (ages 40–75) to analyze factors affecting lung capacity. It contrasts populations across three distinct air-quality environments: a pristine high-altitude rural town, a suburban area with moderate air quality, and a highly industrialized urban region.
+#'
+#'
+#' @format A data frame with 200 rows and 7 variables:
+#' \describe{
+#' \item{Age}{Age of the participant in years}
+#' \item{Height}{Height of the participant in cm}
+#' \item{Weight}{Weight of the participant in kg}
+#' \item{PM2_5_Exposure}{Estimated 5-years average exposure to fine particulate matter (PM2.5), measured in micrograms per cubic meter}
+#' \item{Rural}{A binary indicator of residential location (1 = Rural, 0 = Non-rural)}
+#' \item{AreaType}{A factor indicating the specific type of residential area ("rural", "suburban", or "urban")}
+#' \item{FEV1}{Forced Expiratory Volume in 1 second (measured in Liters), representing lung function}
+#' }
+#'
+"pm_exposure"
 #'
